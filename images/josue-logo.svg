@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   sodipodi:docname="josue-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:snap-nodes="false"
+     inkscape:zoom="1.5"
+     inkscape:cx="41.333333"
+     inkscape:cy="102.33333"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-180.65126 : -6.581113 : 1"
+       inkscape:vp_y="854.78067 : -518.98941 : 0"
+       inkscape:vp_z="-240.35324 : -110.99128 : 1"
+       inkscape:persp3d-origin="-226.30948 : -49.324654 : 1"
+       id="perspective1062" />
+    <font
+       horiz-adv-x="1024"
+       id="font7668"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face7670"
+         font-family="SVGFont 1"
+         cap-height="50" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph7672" />
+    </font>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10724"
+       transform="matrix(0.82295526,0,0,0.82295526,150.67199,22.029852)">
+      <path
+         id="rect7963"
+         style="fill:#00b4d8;fill-opacity:1;stroke-width:6.26948"
+         d="M -82.625405,5.6887935 -110.21094,-14.617868 c 0.0118,19.1355288 0.035,32.643005 0.066,40.564668 z" />
+      <path
+         id="rect7963-9"
+         style="fill:#0096c7;fill-opacity:1;stroke-width:6.26948"
+         d="M -110.21094,25.922711 -82.625405,5.6160507 c -0.0118,19.1355273 -0.035,32.6430043 -0.066,40.5646673 z" />
+      <path
+         id="rect7963-4"
+         style="fill:#0077b6;fill-opacity:1;stroke-width:6.26948"
+         d="M -82.625405,45.940619 -110.21094,25.633958 c 0.0118,19.135528 0.035,32.643005 0.066,40.564668 z" />
+      <path
+         id="rect7963-9-8"
+         style="fill:#023e8a;fill-opacity:1;stroke-width:6.26948"
+         d="m -110.21094,66.17873 27.585535,-20.306661 c -0.0118,19.135528 -0.035,32.643005 -0.066,40.564668 z" />
+      <path
+         id="rect7963-9-8-1"
+         style="fill:#001864;fill-opacity:1;stroke-width:6.26948"
+         d="M -82.625405,86.515754 -110.21094,66.209093 c 0.0118,19.135528 0.035,32.643005 0.066,40.564677 z" />
+      <path
+         id="rect7963-9-8-1-2"
+         style="fill:#023e8a;fill-opacity:1;stroke-width:6.26948"
+         d="m -137.73162,86.637409 27.58553,-20.306661 c -0.0118,19.135528 -0.035,32.643005 -0.066,40.564672 z" />
+      <path
+         id="rect7963-9-8-1-2-9"
+         style="fill:#0077b6;fill-opacity:1;stroke-width:6.26948"
+         d="m -110.12036,66.369106 -27.58553,-20.306661 c 0.0118,19.135528 0.035,32.643005 0.066,40.564673 z" />
+    </g>
+  </g>
+</svg>
