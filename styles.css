@@ -440,6 +440,7 @@ form button {
     padding: .5em 2.5em .6em;
     border: 2px solid var(--secondary-color);
 
+    font-family: var(--secondary-font);
     font-weight: var(--bold);
 
     transition: background-color 250ms, color 250ms;
