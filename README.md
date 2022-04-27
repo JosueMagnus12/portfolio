@@ -19,7 +19,7 @@ All projects have a title, description, a list of technologies I used to build t
 
 Tablet, Smartphone or PC it doesn't matter! You will have a great experience 😎
 
-<img src="./images/readme-imgs/responsive-preview.png" alt="responsive-preview" style="width: min(60%, 300px)">
+<img src="./images/readme-imgs/responsive-preview.png" alt="responsive-preview" style="width: min(60%, 300px); height: auto;">
 
 ---
 
